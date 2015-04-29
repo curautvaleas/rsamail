@@ -1,0 +1,17 @@
+c:\users\lg\documents\visual studio 2013\Projects\emailprogramı\emailprogramı\bin\Debug\emailprogramı.exe.config
+c:\users\lg\documents\visual studio 2013\Projects\emailprogramı\emailprogramı\bin\Debug\emailprogramı.exe
+c:\users\lg\documents\visual studio 2013\Projects\emailprogramı\emailprogramı\bin\Debug\emailprogramı.pdb
+c:\users\lg\documents\visual studio 2013\Projects\emailprogramı\emailprogramı\obj\Debug\emailprogramı.csprojResolveAssemblyReference.cache
+c:\users\lg\documents\visual studio 2013\Projects\emailprogramı\emailprogramı\obj\Debug\emailprogramı.Form1.resources
+c:\users\lg\documents\visual studio 2013\Projects\emailprogramı\emailprogramı\obj\Debug\emailprogramı.Properties.Resources.resources
+c:\users\lg\documents\visual studio 2013\Projects\emailprogramı\emailprogramı\obj\Debug\emailprogramı.csproj.GenerateResource.Cache
+c:\users\lg\documents\visual studio 2013\Projects\emailprogramı\emailprogramı\obj\Debug\emailprogramı.exe
+c:\users\lg\documents\visual studio 2013\Projects\emailprogramı\emailprogramı\obj\Debug\emailprogramı.pdb
+C:\Users\Serdar.Serdar-PC\Desktop\RSA Email\emailprogramı\emailprogramı\bin\Debug\emailprogramı.exe.config
+C:\Users\Serdar.Serdar-PC\Desktop\RSA Email\emailprogramı\emailprogramı\obj\Debug\emailprogramı.exe
+C:\Users\Serdar.Serdar-PC\Desktop\RSA Email\emailprogramı\emailprogramı\obj\Debug\emailprogramı.pdb
+C:\Users\Serdar.Serdar-PC\Desktop\RSA Email\emailprogramı\emailprogramı\obj\Debug\emailprogramı.Properties.Resources.resources
+C:\Users\Serdar.Serdar-PC\Desktop\RSA Email\emailprogramı\emailprogramı\obj\Debug\emailprogramı.csproj.GenerateResource.Cache
+C:\Users\Serdar.Serdar-PC\Desktop\RSA Email\emailprogramı\emailprogramı\bin\Debug\emailprogramı.exe
+C:\Users\Serdar.Serdar-PC\Desktop\RSA Email\emailprogramı\emailprogramı\bin\Debug\emailprogramı.pdb
+C:\Users\Serdar.Serdar-PC\Desktop\RSA Email\emailprogramı\emailprogramı\obj\Debug\emailprogrami.Form1.resources
